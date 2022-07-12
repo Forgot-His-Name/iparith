@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = 'iparith'
-  spec.version       = '0.0.2'
+  spec.version       = '0.0.3'
   spec.authors       = ['Forgot-His-Name']
   spec.email         = ['103605633+Forgot-His-Name@users.noreply.github.com']
 
