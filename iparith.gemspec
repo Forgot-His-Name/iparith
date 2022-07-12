@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = 'https://github.com/Forgot-His-Name/iparith'
   spec.license       = "BSD-3-Clause"
 
-  spec.files         = ['iparith.gemspec', 'lib/iparith.rb', 'lib/iparith/parse.rb']
+  spec.files         = ['iparith.gemspec', 'lib/iparith.rb', 'lib/iparith/parse.rb', 'lib/iparith/check.rb']
   spec.require_paths = ['lib']
 
   spec.add_runtime_dependency 'ipaddr', '~> 1.2'
